@@ -1,0 +1,13 @@
+
+.section { display: inline-block; }
+
+
+.cover__photo {
+    background-image: url('danielle-profile.jpg');
+    background-size: cover;
+
+}
+
+.cover__headline {
+    text-transform: capitalize;
+}
