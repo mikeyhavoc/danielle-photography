@@ -1,0 +1,23 @@
+{
+  "name": "danielle",
+  "version": "1.0.0",
+  "description": "30 sites 30 days event site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyhavoc/danielle-photography.git"
+  },
+  "keywords": [
+    "danielle",
+    "event"
+  ],
+  "author": "michael williams",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mikeyhavoc/danielle-photography/issues"
+  },
+  "homepage": "https://github.com/mikeyhavoc/danielle-photography#readme"
+}
